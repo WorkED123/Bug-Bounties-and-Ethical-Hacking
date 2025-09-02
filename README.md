@@ -355,5 +355,5 @@ The synergy between ethical hacking and bug bounties is a robust mechanism to en
 <a href="https://github.com/work-ed-cyber/5.5-medium"> Research Report on Bug Bounties and the Ethical Hacking Profession </a> - Medium
 
 <h2> Games</h2>
-<h2>Additonal Resources</h2>
+<h2>Additional Resources</h2>
 
